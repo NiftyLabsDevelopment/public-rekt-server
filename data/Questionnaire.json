@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Why do you want to work for Big Inc?",
+        "questionType": "free-form"
+    },
+    {
+        "question": "Describe in detail your daily tooth-brushing tactics and your long-term dental care strategy. Be specific.",
+        "questionType": "free-form"
+    },
+    {
+        "question": "Describe the perfect handshake.",
+        "questionType": "free-form"
+    },
+    {
+        "question": "What does SYNERGY stand for?",
+        "questionType": "free-form"
+    },
+    {
+        "question": "Please list 5 words you’d like to be engraved on your tombstone.",
+        "questionType": "free-form"
+    },
+    {
+        "question": "What is the worst crypto trade you ever made?",
+        "questionType": "free-form"
+    }
+]
